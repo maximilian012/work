@@ -14,7 +14,7 @@ public class MainClass {
 		// menu
 		while (true) {
 
-			System.out.println("<<<<<<<<<<<< 가계부(수정됨222222222) >>>>>>>>>>>>");
+			System.out.println("<<<<<<<<<<<< 가계부(수정됨333333333333333) >>>>>>>>>>>>");
 			System.out.print("1. 입력");
 			System.out.print(" 2. 검색");
 			System.out.print(" 3. 삭제");
