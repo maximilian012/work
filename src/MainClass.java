@@ -4,7 +4,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		
 		//System.out.println("hihihihi"); // ln = 줄바꿈 엔터
-		
+		System.out.println("수정 함");
 		// 한줄 주석 이줄은 컴파일되지 않는다
 		
 		/*
